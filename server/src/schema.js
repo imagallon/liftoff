@@ -30,11 +30,6 @@ type Author {
   photo: String
 }
 
-
-
-
-
-
 `;
 
 module.exports = typeDefs;
